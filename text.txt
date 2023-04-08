@@ -1,1 +1,4 @@
-We often need to work collaboratively. We might not be located in the same physical space as our friends and colleagues and they might not have the IDE installed. JetBrains Code With me is the solution to both of these challenges. Individuals can use Code With Me in IntelliJ IDEA Community Edition for up to 30 minutes and 3 guests for free. You can learn more about the licensing for organisations and individuals from JetBrains.
+We often need to work collaboratively. We might not be located in the same physical space as our friends and colleagues and they might not have 
+the IDE installed. JetBrains Code With me is the solution to both of these challenges. 
+Individuals can use Code With Me in IntelliJ IDEA Community Edition for up to 30 minutes and 3 guests for free. 
+You can learn more about the licensing for organisations and individuals from JetBrains.
